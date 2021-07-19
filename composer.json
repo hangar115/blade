@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jenssegers\\Blade\\": "src/"
+            "Hangar115\\Blade\\": "src/"
         }
     },
     "minimum-stability": "dev",
